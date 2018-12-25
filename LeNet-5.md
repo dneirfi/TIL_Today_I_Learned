@@ -3,7 +3,7 @@
 > CNN고전이라 부를 수 있는 LeNet-5 
   LeCun 교수님이 1998년에 만든 모델, 6개의 hidden layer
 
-> 1. Input - 32x32x1. 흑백 이미지. (필터 5x5, stride 1)
+  1. Input - 32x32x1. 흑백 이미지. (필터 5x5, stride 1)
   2. C1 -  28x28x6. feature maps 6개. (필터 2x2, subsampling)
   3. S2 - 14x14x6. feature maps 6개. (필터 5x5, stride 1)
   4. C3 - 10x10x16. feature maps 16개
