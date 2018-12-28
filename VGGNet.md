@@ -1,4 +1,4 @@
-d="vggnet">VGGNet</h2>
+<h2 id="vggnet">VGGNet</h2>
 
 <ol>
 <li><p>개요 <br>
